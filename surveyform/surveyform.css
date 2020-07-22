@@ -1,0 +1,75 @@
+.global{
+	/*background-color: rgb(123, 31, 162);*/
+	color: white;
+	background-image: url("bgimg4.jpg");
+	/*opacity: 0.5;*/
+
+  /* Full height */
+	  height: 100%;
+
+	  /* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.one{
+	text-align: center;
+	color: black;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.two{
+	margin: auto;
+	background-color: #593c5d;;
+	padding: 30px;
+	margin-top: 20px;
+	margin-left: 470px;
+	margin-right: 70px;
+	margin-bottom: 20px;
+	width:500px;
+	height:85vh;
+}
+.three{
+	text-align: left;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width:250px;
+}
+.four{
+	text-align: left;
+	margin-bottom: 10px;
+}
+.five{
+	text-align: left;
+	margin-bottom: 10px;
+}
+.six{
+	text-align: left;
+	margin-bottom: 10px;
+}
+.seven{
+	text-align: left;
+	margin-bottom: 10px;
+}
+.eight{
+	text-align: left;
+	margin-bottom: 10px;
+}
+.nine{
+	text-align: left;
+	margin-bottom: 10px;
+}
+.ten{
+	border-radius:5px;
+	width:450px;
+}
+.eleven{
+	width:460px;
+	background-color: #57B846;
+	text-align: center;
+}
+.onet{
+	text-align: center;
+	color: black;
+	margin-top: 0px;
+}
